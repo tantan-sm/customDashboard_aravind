@@ -5,3 +5,4 @@ The default IDE is set to STM32CubeIDE, to change IDE open the STM32H750B-DK.ioc
 This TBS is configured for 272 x 480 pixels 16bpp screen resolution.
 
 Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ - Pin PG3 (D2), RENDER_TIME - Pin PB7 (D0), FRAME_RATE - Pin PB6 (D1), MCU_ACTIVE - Pin PA6 (D3).
+![Uploading WhatsApp Image 2026-09-06 at 12.26.46 AM.jpeg…]()
